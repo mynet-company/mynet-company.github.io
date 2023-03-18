@@ -1,9 +1,10 @@
 # ----
 # Site
 
-title: 
-url: 
-baseurl:
+title: Mynet Group
+
+url: http://mynet.company/
+baseurl:http://mynet.company/
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
